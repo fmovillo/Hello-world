@@ -1,2 +1,2 @@
-"Hello"
-"A new line"
+"Hello world"
+
